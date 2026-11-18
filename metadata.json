@@ -1,0 +1,6 @@
+{
+  "name": "DJ Viral",
+  "description": "Aplikasi pemutar musik DJ dan remix online bertema Dark Neon dengan pemutaran latar belakang, animasi piringan hitam, dan visualizer equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

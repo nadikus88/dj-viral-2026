@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DJ Viral</string>
+    <string name="header_badge">STREAMING ONLINE</string>
+    <string name="header_title">DJ Viral TikTok 2026</string>
+    <string name="header_subtitle">Full Bass &amp; Jedag Jedug Online</string>
+    <string name="search_placeholder">Cari judul lagu atau nama DJ...</string>
+    <string name="clear_search_desc">Hapus pencarian</string>
+    <string name="tab_all_songs">Semua Lagu (%1$d)</string>
+    <string name="tab_favorites">Favorit Saya (%1$d)</string>
+    <string name="empty_search_title">Lagu tidak ditemukan</string>
+    <string name="empty_search_subtitle">Coba kata kunci judul lagu atau nama DJ lainnya.</string>
+    <string name="empty_favorites_title">Belum ada lagu favorit</string>
+    <string name="empty_favorites_subtitle">Ketuk ikon hati pada lagu untuk menyimpannya ke daftar favorit Anda.</string>
+    <string name="now_playing_label">SEDANG DIPUTAR</string>
+    <string name="cd_back">Kembali ke daftar lagu</string>
+    <string name="cd_favorite_add">Tambah ke favorit</string>
+    <string name="cd_favorite_remove">Hapus dari favorit</string>
+    <string name="cd_play">Putar lagu</string>
+    <string name="cd_pause">Jeda lagu</string>
+    <string name="cd_next">Lagu berikutnya</string>
+    <string name="cd_previous">Lagu sebelumnya</string>
+    <string name="cd_shuffle">Mode acak</string>
+    <string name="cd_repeat">Mode ulangi</string>
+    <string name="cd_album_cover">Sampul album %1$s</string>
+    <string name="repeat_off">Ulangi Mati</string>
+    <string name="repeat_all">Ulangi Semua</string>
+    <string name="repeat_one">Ulangi Satu Lagu</string>
+    <string name="shuffle_on">Acak Aktif</string>
+    <string name="shuffle_off">Acak Mati</string>
+    <string name="buffering_label">Memuat audio...</string>
+    <string name="error_no_internet">Tidak ada koneksi internet. Periksa Wi-Fi atau data seluler Anda.</string>
+    <string name="error_playback_failed">Gagal memutar lagu. Koneksi terputus atau tautan audio bermasalah.</string>
+    <string name="action_retry">Coba Lagi</string>
+</resources>
